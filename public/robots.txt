@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://wedding.eckertalex.dev/sitemap.xml
